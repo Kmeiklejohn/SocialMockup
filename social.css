@@ -1,0 +1,48 @@
+html,body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#head{
+    background-color: rgb(32, 86, 187);
+    height: 300px;
+    width: 850px;
+}
+#profile{
+    height: 150px;
+    width: 150px;
+    border: solid black 1px;
+    position: absolute;
+    top: 180px;
+    left:20px;
+    background-color: rgb(32, 86, 187);
+}
+.Name{
+    color: white;
+    position: relative;
+    left: 180px;
+    top: 220px;
+    
+}
+.website{
+    color:white;
+    position: absolute;
+    left: 190px;
+    top: 260px;
+}
+li{
+    background-color: white;
+    margin:2px;
+    padding: 5px;
+    border: solid slategray 2px;
+    color: black;
+    list-style-type: none;
+    display: inline-block;
+    position: relative;
+    left: 550px;
+    top: 200px;
+}
+#bar{
+    border:  solid grey 1px;
+    width: 848px;
+    text-align-last: center;
+    text-decoration-color: rgb(32, 86, 187)
+}
